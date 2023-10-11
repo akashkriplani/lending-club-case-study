@@ -12,8 +12,8 @@ The primary objective of this exercise is to assist Lending Club in mitigating c
 ## Table of Contents
 
 - [General Info](#general-information)
-- [Technologies Used](#technologies-used)
 - [Conclusions](#conclusions)
+- [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
 - [Collaborators](#collaborators)
 
